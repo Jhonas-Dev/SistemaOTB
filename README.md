@@ -1,2 +1,2 @@
 # SistemaOTB
-Sistema web para el pago de servicios de agua, para la OTBChimboco alto
+.Sistema web para el pago de servicios de agua, para la OTBChimboco alto
